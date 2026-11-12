@@ -194,4 +194,3 @@ _Apple and CarPlay are trademarks of Apple Inc. Android and Android Auto are tra
 LIVI is free software, licensed under the **GNU General Public License v3.0 or later** (`GPL-3.0-or-later`). See [LICENSE](LICENSE) for the full text.
 
 Copyright (C) 2025 Lasse Heitgres  
-UDP Navigation Telemetry Bridge Copyright (C) 2026 Czeilinger Dominik József (ItzNightBlade)
