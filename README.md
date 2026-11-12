@@ -2,7 +2,7 @@
   <img alt='LIVI' src='docs/media/banner.png' width="1200" />
 </p>
 
-# LIVI – Linux In-Vehicle Infotainment (UDP Navigation Telemetry Fork)
+# LIVI - Linux In-Vehicle Infotainment (UDP Navigation Telemetry Fork)
 
 This repository is a fork of [f-io/LIVI](https://github.com/f-io/LIVI) with a lightweight local UDP telemetry bridge added to the Android Auto navigation stack.
 
